@@ -13,7 +13,7 @@ def column_sums(matrix):
     return sums
 
 
-# Example usage
+
 matrix = [[1, 2, 3, 4], [5, 6, 7, 8], [9, 2, 3, 4]]
 result = column_sums(matrix)
 print(result)
